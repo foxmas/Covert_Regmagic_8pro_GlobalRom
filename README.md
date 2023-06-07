@@ -1,7 +1,7 @@
 # Covert_regmagic_8pro_GlobalRom
 Redmagic 8 pro China to Global rom 
 !!!BACKUP FIRST IF THERE ARE IMPORTANT FILES ON THEDEVICE BECAUSE AFTER CHANGING THE ROM ALL THE FILES ARE LOST!!!
-
+https://www.mediafire.com/file/kwovhj4me70mvym/NX729J-update.zip/file
 ---------------FIRST STEP AFTER DOWNLOADING ROM---------
 STEP 1 ![IMG_20230607_125125](https://github.com/foxmas/Covert_regmagic_8pro_GlobalRom/assets/86587372/f8a53382-ed54-4459-9af9-0f129e351022)
 STEP 2 ![IMG_20230607_125143](https://github.com/foxmas/Covert_regmagic_8pro_GlobalRom/assets/86587372/47179ea9-4c1d-4975-bf0c-3b959e25c0d3)
